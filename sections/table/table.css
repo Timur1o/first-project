@@ -1,0 +1,22 @@
+@import url(./__cell/table__cell.css);
+@import url(./__cell/__theme/table__cell__theme_dark.css);
+@import url(./__heading/table__heading.css);
+@import url(./__heading/__theme/table__heading__theme_dark.css);
+@import url(./__place/table__place_kaufman.css);
+@import url(./__row/table__row.css);
+@import url(./__row/__theme/table__row__theme_dark.css);
+@import url(./__text/__theme/table__text.css);
+@import url(./__text/__theme/table__text__theme_dark.css);
+@import url(./__theme/table__theme_dark.css);
+
+
+
+
+
+.table {
+display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 60px;
+  
+}
