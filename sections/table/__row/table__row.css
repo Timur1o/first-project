@@ -1,7 +1,5 @@
-
-
 .table__row{
   width: 100%;
-    display: flex;
-    justify-content: center;
+  display: flex;
+  justify-content: center;
 }

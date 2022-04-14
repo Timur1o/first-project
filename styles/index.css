@@ -1,30 +1,20 @@
-
-@import url(../sections/column/column.css);
-@import url(../sections/container/container.css);
-@import url(../sections/content/content.css);
+@import url(../sections/cards/cards.css);
 @import url(../sections/description/description.css);
 @import url(../sections/digits/digits.css);
 @import url(../sections/feynman/feynman.css);
-@import url(../sections/floor/floor.css);
 @import url(../sections/footer/footer.css);
 @import url(../sections/header/header.css);
 @import url(../sections/kaufman/kaufman.css);
-@import url(../sections/link/link.css);
+@import url(../sections/khan/khan.css);
 @import url(../sections/logo/logo.css);
 @import url(../sections/oakley/oakley.css);
 @import url(../sections/page/page.css);
 @import url(../sections/resources/resources.css);
 @import url(../sections/section-subtitle/section-subtitle.css);
-/* @import url(../sections/section-title/section-title.css); */
-@import url(../sections/section-title/index.css);
+@import url(../sections/section-title/section-title.css);
 @import url(../sections/table/table.css);
 @import url(../sections/techniques/techniques.css);
 @import url(../sections/two-columns/two-columns.css);
 @import url(../sections/video/video.css);
-@import url(../sections/author/author.css);
-@import url(../sections/book/book.css);
-@import url(../sections/book-container/book-container.css);
-@import url(../sections/book-pic/book-pic.css);
-@import url(../sections/buy-link/buy-link.css);
-@import url(../sections/cards/cards.css);
-@import url(../sections/khan/khan.css);
+
+

@@ -9,14 +9,9 @@
 @import url(./__text/__theme/table__text__theme_dark.css);
 @import url(./__theme/table__theme_dark.css);
 
-
-
-
-
 .table {
 display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    margin-top: 60px;
-  
+justify-content: center;
+flex-wrap: wrap;
+margin-top: 60px;
 }

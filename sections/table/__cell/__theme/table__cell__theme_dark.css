@@ -1,7 +1,6 @@
-
-
 .table__cell__theme_dark {
-  width: 200px;
-
-
+line-height: 1.2;
+font-size: 18px;
+font-weight: normal;
+width: 200px;
 }
