@@ -1,9 +1,6 @@
 .resources__link {
-  display: flex;
-  flex-direction: row;
-  margin: 80px auto 217px auto;
-  width: 1100px;
-  justify-content: space-between;
+  width: 270px;
+  height: 38px;
 }
 
 .resources__link:hover {
